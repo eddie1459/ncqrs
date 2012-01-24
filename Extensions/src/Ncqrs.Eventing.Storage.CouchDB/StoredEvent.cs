@@ -5,6 +5,7 @@ namespace Ncqrs.Eventing.Storage.CouchDB
 {
     public class StoredEvent
     {
+
         public string Id { get; set; }
         public long EventSequence { get; set; }
         public Guid EventSourceId { get; set; }
