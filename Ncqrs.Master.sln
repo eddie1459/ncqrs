@@ -172,7 +172,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ncqrs.Eventing.Sourcing.Sna
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ncqrs.Eventing.Sourcing.Snapshotting.DynamicSnapshot.Tests", "Extensions\src\Ncqrs.Eventing.Sourcing.Snapshotting.DynamicSnapshot.Tests\Ncqrs.Eventing.Sourcing.Snapshotting.DynamicSnapshot.Tests.csproj", "{85073A89-CC13-44E2-B8C2-FB0B638B60F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ncqrs.Eventing.Storage.CouchDB", "Ncqrs.Eventing.Storage.CouchDB\Ncqrs.Eventing.Storage.CouchDB.csproj", "{6870AD69-E7A8-44CE-8876-45ACDE7B50FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ncqrs.Eventing.Storage.CouchDB", "Extensions\src\Ncqrs.Eventing.Storage.CouchDB\Ncqrs.Eventing.Storage.CouchDB.csproj", "{6870AD69-E7A8-44CE-8876-45ACDE7B50FF}"
 EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
